@@ -5,7 +5,7 @@
 /* */
 
 
-char modelo[] = "Ânodo Comum";
+char modelo[] = "Cátodo Comum";
 
 /* Define o pino analógico A0 para o potenciômetro. */
 int Pin_pot = A0;
